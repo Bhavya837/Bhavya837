@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I am Bhavya 👋
 
-<!--
-**Bhavya837/Bhavya837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Data Engineer | Palantir Foundry
+I'm a data engineer with hands-on experience building data pipelines on Palantir Foundry, currently expanding my skills in PySpark, Delta Lake, and AWS.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+PySpark | Delta Lake | Databricks | Palantir Foundry | SQL | Python | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Sales Data Pipeline](https://github.com/Bhavya837/pyspark-sales-pipeline) — End-to-end ETL pipeline built with PySpark and Delta Lake on Databricks. Covers data ingestion, cleaning, transformation, partitioned storage, and Delta Lake features.
+
+## 🤝 Open to Collaborating On
+- Data engineering projects
+- ETL pipeline development
+- Real world datasets and analytics
+
+## 📬 Reach Me
+- Email: bhavyamorampudi111@gmail.com
